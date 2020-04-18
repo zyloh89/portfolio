@@ -8,7 +8,7 @@ The website is created as a mobile-first website.
 
 ## Screenshots
 
-Screenshot image [here] (https://github.com/zyloh89/portfolio/blob/master/assets/portfolio_screenshot.PNG)
+Screenshot image [here](https://github.com/zyloh89/portfolio/blob/master/assets/portfolio_screenshot.PNG)
 
 ## Banner Image Credit
 Photo by [Sunyu Kim](https://www.pexels.com/photo/view-of-white-commercial-building-1882979/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels
