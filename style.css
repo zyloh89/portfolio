@@ -8,6 +8,7 @@ body{
 :root{
     /*--color-black: #2B1663;*/
     --color-indigo: #2B1663;
+    --color-indigo-light: #eeeafa;
     --color-white: #ffffff;
     --color-border: #ffffff34;
     --font-merriweather: 'Merriweather', serif;
@@ -45,6 +46,9 @@ body{
 
 .bgcolor-indigo{
     background-color: var(--color-indigo);
+}
+.bg-indigo-light{
+    background-color: var(--color-indigo-light);
 }
 
 /* #global classes */
